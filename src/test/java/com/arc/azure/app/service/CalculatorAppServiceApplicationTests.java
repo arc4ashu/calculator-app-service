@@ -1,0 +1,13 @@
+package com.arc.azure.app.service;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CalculatorAppServiceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
